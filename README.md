@@ -26,3 +26,10 @@ Si la gráfica es alta en una región dada, significa que hay más moléculas de
 - gasFormula.py contiene las clases y funciones de apoyo para las operaciones
 - Folder 'dist' tiene la aplicacion .exe basica (exclusivo de Windows)
 - Folder 'build' contiene de compilacion para el .exe
+
+## Modo de uso
+- Introducir datos del gas (nombre, masa calculada y temperatura en K) y presiona ingresar
+- La velocidad esta por defecto en 2000, introducir otra a tu gusto
+- Al visualizar puedes controlar la temperatura por medio de una barra (afecta todas), toca el boton Modo normal para reiniciar
+- Elimina la ultima grafica creada o bien, reinicia la visualizacion
+- Vista Previa en Prev.jpg
