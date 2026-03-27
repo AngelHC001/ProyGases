@@ -16,3 +16,11 @@ Si la gráfica es alta en una región dada, significa que hay más moléculas de
 - nitrogeno = 4.65 * (10**-26) --> 4.6500000000000006e-26 (dato a ingresar)
 - oxigeno = 5.31 * (10**-26) --> 5.31e-26
 - argon = 6.47 * (10**-26) --> 6.47e-26
+
+## Datos del Proyecto
+- Lenguaje de Programación: Python
+- Bibliotecas Utilizadas: tkinter (GUI), matplotlib, numpy, math
+
+## Estructura
+- mainApp.py conforma la ventana de interfaz
+- gasFormula.py son las formulas y clases de apoyo donde estan las operaciones
