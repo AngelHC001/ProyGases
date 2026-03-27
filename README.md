@@ -23,4 +23,6 @@ Si la gráfica es alta en una región dada, significa que hay más moléculas de
 
 ## Estructura
 - mainApp.py conforma la ventana de interfaz
-- gasFormula.py son las formulas y clases de apoyo donde estan las operaciones
+- gasFormula.py contiene las clases y funciones de apoyo para las operaciones
+- Folder 'dist' tiene la aplicacion .exe basica (exclusivo de Windows)
+- Folder 'build' contiene de compilacion para el .exe
