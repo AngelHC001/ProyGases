@@ -1,5 +1,5 @@
 ## ProyGases
-Un pequeño proyecto de apoyo universitario para termodinamica, se encarga de graficar la densidad de los gases en relación a su velocidad, la grafica esta basada en la formula Maxwell-Boltzmann.
+Un pequeño proyecto universitario para termodinamica, se encarga de graficar la densidad de los gases en relación a su velocidad, los calculos estan basados en la formula Maxwell-Boltzmann.
 
 Datos de la Gráfica: 
 - Nombre del Gas a graficar
@@ -21,15 +21,18 @@ Si la gráfica es alta en una región dada, significa que hay más moléculas de
 - Lenguaje de Programación: Python
 - Bibliotecas Utilizadas: tkinter (GUI), matplotlib, numpy, math
 
+```
 ## Estructura
 - mainApp.py conforma la ventana de interfaz
 - gasFormula.py contiene las clases y funciones de apoyo para las operaciones
 - Folder 'dist' tiene la aplicacion .exe basica (exclusivo de Windows)
 - Folder 'build' contiene de compilacion para el .exe
-
+```
+```
 ## Modo de uso
 - Introducir datos del gas (nombre, masa calculada y temperatura en K) y presiona ingresar
 - La velocidad esta por defecto en 2000, introducir otra a tu gusto
 - Al visualizar puedes controlar la temperatura por medio de una barra (afecta todas), toca el boton Modo normal para reiniciar
 - Elimina la ultima grafica creada o bien, reinicia la visualizacion
 - Echale un vistazo en UseModePrev.jpg
+```
