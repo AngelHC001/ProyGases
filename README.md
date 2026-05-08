@@ -32,5 +32,5 @@ Si la gráfica es alta en una región dada, significa que hay más moléculas de
 - La velocidad esta por defecto en 2000, introducir otra a tu gusto
 - Al visualizar puedes controlar la temperatura por medio de una barra (afecta todas), toca el boton Modo normal para reiniciar
 - Elimina la ultima grafica creada o bien, reinicia la visualizacion
-- La imagen **UseModePrev.jpg** muestra el uso de sus funciones 
+- La imagen **VISTA_PREVIA_APP.jpg** muestra el uso de sus funciones 
 
